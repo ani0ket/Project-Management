@@ -21,14 +21,10 @@ Before running the project, ensure you have the following installed on your mach
 2. Navigate to the project directory:
    ```bash
    cd myproject
-      
 3. Install dependencies using npm:
    ```bash
-  npm install
-      
+   npm install
+
 4. Running the Project:
    ```bash
    npm run dev
-
-
-
